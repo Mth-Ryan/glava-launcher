@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Glava
+Comment=Audio Visualizer
+Comment[pt_BR]=Visualizador de Audio
+Type=Application
+Categories=Audio
+Icon=/usr/share/icons/glava.png
+Terminal=false
+Exec=/usr/bin/glava-launcher %U
